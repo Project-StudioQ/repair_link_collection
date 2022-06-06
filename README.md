@@ -17,7 +17,7 @@ Repair Link Collection は名称が変わったCollectionのリンクを修復�
   * 例：「charA_tmp」を除きたい場合は「_tmp」
 
 ## 動画
-[![YouTubeで見る](https://img.youtube.com/vi/gwiI7nSzigI/0.jpg)](https://www.youtube.com/watch?v=gwiI7nSzigI)
+[![YouTubeで見る](https://img.youtube.com/vi/j5BJpl0iSjs&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=j5BJpl0iSjs&feature=youtu.be)
 
 ## インストール
 Project Studio Qが公開している [Tools:Q](https://github.com/Project-StudioQ/toolsq_common) よりインストールしてください。
