@@ -27,9 +27,9 @@ Project Studio Qが公開している [Tools:Q](https://github.com/Project-Studi
 
 ## Q&A
 
-* SceneCollection直下以外の場合はどうする？
-  * 現状はSceneCollection直下以外は対応していません
-  * 外部から対象コレクションの指定が難しいため
+* SceneCollection直下以外のコレクションにリンクしていた場合はどうする？
+  * 現在はSceneCollection直下以外は対応していません
+  * 理由：外部から対象コレクションの指定が難しいため
 
 ## ライセンス
 このBlenderアドオンは GNU Public License v2 です。
