@@ -17,7 +17,7 @@ The target is linked to the first one detected from the Collection directly unde
   * ex. ： If you want to exclude "charA_tmp", use "_tmp".
 
 ## Video
-[![Watch on YouTube](https://img.youtube.com/vi/j5BJpl0iSjs&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=j5BJpl0iSjs&feature=youtu.be)
+[![Watch on YouTube](https://img.youtube.com/vi/j5BJpl0iSjs/0.jpg)](https://www.youtube.com/watch?v=j5BJpl0iSjs)
 
 ## Install
 You can install from [Tools:Q](https://github.com/Project-StudioQ/toolsq_common)
