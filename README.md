@@ -6,7 +6,10 @@
 View 3D & Outliner / All Mode
 
 Repair Link Collection は名称が変わったCollectionのリンクを修復するアドオンです。<br>
-対象はScene Collection直下のCollectionからIgnoreTextsの対象を除いて、最初に検知されたものがリンクされます。
+
+【修正対象】
+* Scene Collection直下のCollection
+  * IgnoreTextsの対象を除いて、最初に検知されたものがリンクされます。
 
 ## UI
 ![image](https://user-images.githubusercontent.com/1855970/172103134-91b7ab02-0d14-4a51-b9c6-c753f2f58b4b.png)
