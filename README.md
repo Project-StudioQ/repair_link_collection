@@ -9,7 +9,7 @@ Repair Link Collection は名称が変わったCollectionのリンクを修復�
 
 【修正対象】
 * Scene Collection直下のCollection
-  * IgnoreTextsの対象を除いて、最初に検知されたものがリンクされます。
+  * IgnoreTextsの対象を除いて、最初に検知されたものがリンクされます
 
 ## UI
 ![image](https://user-images.githubusercontent.com/1855970/172103134-91b7ab02-0d14-4a51-b9c6-c753f2f58b4b.png)
@@ -24,6 +24,12 @@ Repair Link Collection は名称が変わったCollectionのリンクを修復�
 
 ## インストール
 Project Studio Qが公開している [Tools:Q](https://github.com/Project-StudioQ/toolsq_common) よりインストールしてください。
+
+## Q&A
+
+* SceneCollection直下以外の場合はどうする？
+  * 現状はSceneCollection直下以外は対応していません
+  * 外部から対象コレクションの指定が難しいため
 
 ## ライセンス
 このBlenderアドオンは GNU Public License v2 です。
