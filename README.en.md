@@ -6,7 +6,10 @@
 View 3D & Outliner / All Mode
 
 Repair Link Collection is an add-on that repairs links in a renamed Collection.<br>
-The target is linked to the first one detected from the Collection directly under the Scene Collection, excluding the target of IgnoreTexts.
+
+【Repair Targets】
+* Scene Collection children only
+  * The first one detected is linked, excluding the target of "IgnoreTexts"
 
 ## UI
 ![image](https://user-images.githubusercontent.com/1855970/172103134-91b7ab02-0d14-4a51-b9c6-c753f2f58b4b.png)
